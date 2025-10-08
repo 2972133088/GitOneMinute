@@ -1,3 +1,3 @@
 # GitOneMinute
-git一分钟实战课程
-Git搭配Gui-TortoiseGit与GitLab使用，通过TortoiseGit拉取合并GitLab项目代码
+Git一分钟实战课程
+Git搭配Gui-TortoiseGit与GitLab使用，通过TortoiseGit拉取合并GitLab项目代码（安装TortoiseGit可能会默认安装基础Git服务）
